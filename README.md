@@ -15,4 +15,4 @@ g. Add 5 random key points with the label “key” to one item
 
 
 
-Command to run: python3 Main.py
+Command to run:            python3 Main.py
